@@ -74,9 +74,9 @@ recipe
   Interests
 
 # TODO: move these to separate manifests for claire's wishlist / page
-view PageProducts of [Product] #shortlist in 'https://sjmiles.github.io/arc-stories/artifacts/Products/products.json'
+view PageProducts of [Product] #shortlist in 'https://sjmiles.github.io/arc-stories/0.2/Products/data/products.json'
   description `Products from your browsing context`
-view ClairesWishlist of [Product] #wishlist in 'https://sjmiles.github.io/arc-stories/artifacts/Products/wishlist.json'
+view ClairesWishlist of [Product] #wishlist in 'https://sjmiles.github.io/arc-stories/0.2/Products/data/wishlist.json'
   description `Claire's wishlist`
-view APerson of Person in 'https://sjmiles.github.io/arc-stories/artifacts/Products/people.json'
-#view ThePeople of Person in 'https://sjmiles.github.io/arc-stories/artifacts/Products/people.json'
+view APerson of Person in 'https://sjmiles.github.io/arc-stories/0.2/Products/data/people.json'
+#view ThePeople of Person in 'https://sjmiles.github.io/arc-stories/0.2/Products/data/people.json'
