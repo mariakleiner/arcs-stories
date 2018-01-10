@@ -4,7 +4,7 @@
     "category": "Books",
     "seller": "gutenburger.com",
     "price": "$14.50",
-    "shipDays": 7,
+    "shipDays": 5,
     "image": "assets/products/draw-book.png"
   },
   {
